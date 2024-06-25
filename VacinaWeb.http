@@ -1,0 +1,6 @@
+@VacinaWeb_HostAddress = http://localhost:5145
+
+GET {{VacinaWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
